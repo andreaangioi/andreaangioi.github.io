@@ -1,0 +1,35 @@
+# Andrea Angioi, MD, FASN
+
+> Nephrologist at ARNAS G. Brotzu, Cagliari (Sardinia, Italy), Nephrology, Dialysis and Transplantation unit. Clinical and research focus on glomerular and complement-mediated kidney disease (C3 glomerulopathy, IgA nephropathy, membranous nephropathy, atypical HUS/thrombotic microangiopathy, ANCA-associated vasculitis, MGRS/PGNMID), ultrasound-guided native and transplant kidney biopsy, ADPKD, and artificial intelligence in nephrology. Former Mayo Clinic research fellow (2015–2021, Prof. Fernando C. Fervenza). Fellow of the American Society of Nephrology (FASN) since 2016. Senior Associate Editor, Renal Failure; Associate Editor, Frontiers in Nephrology.
+
+Not to be confused with other people named "A. Angioi" in other fields (e.g., obstetrics/IVF). The canonical identifier is ORCID 0000-0001-8311-5409.
+
+## Profile
+- [Personal page](https://andreaangioi.github.io/): biography, roles, selected publications, contact
+- [ORCID 0000-0001-8311-5409](https://orcid.org/0000-0001-8311-5409): complete, curated list of works, employment and education
+- [Google Scholar](https://scholar.google.com/citations?user=ZCLgVUYAAAAJ): citation metrics
+- [Scopus author 56716182800](https://www.scopus.com/authid/detail.uri?authorId=56716182800)
+- [Wikidata Q141435812](https://www.wikidata.org/wiki/Q141435812)
+- [OpenAlex A5084214896](https://openalex.org/A5084214896)
+
+## Roles
+- Nephrologist (Consultant), ARNAS G. Brotzu, Cagliari, since 2017
+- Senior Associate Editor, Renal Failure (Taylor & Francis)
+- Associate Editor, Frontiers in Nephrology
+- Regional Representative for Sardinia and member of the National Working Group on AI in Nephrology, Italian Society of Nephrology (SIN)
+- VALIGA investigator (European validation of the Oxford classification of IgA nephropathy); member, International Kidney and Myeloma Research Group (IKMG); member, Renal Pathology Society since 2013
+
+## Selected publications
+- [Hemoglobinuria as a marker of inflammation in IgA nephropathy — Kidney International, 2026](https://doi.org/10.1016/j.kint.2026.07.021)
+- [Diagnosis of complement alternative pathway disorders — Kidney International, 2016](https://doi.org/10.1016/j.kint.2015.12.003)
+- [Clinicopathologic predictors of renal outcomes in light chain cast nephropathy — Blood, 2020](https://doi.org/10.1182/blood.2019003807)
+- [New and putative target antigens in membranous nephropathy: a Sardinian cohort — Clinical Kidney Journal, 2025](https://doi.org/10.1093/ckj/sfaf115)
+- [Management of immune-mediated glomerular diseases in the elderly — Renal Failure, 2024](https://doi.org/10.1080/0886022X.2024.2411848)
+- [Ultrasound-guided kidney biopsy: a ten-year single-center experience — International Urology and Nephrology, 2025](https://doi.org/10.1007/s11255-024-04196-1)
+- [RAAS-inhibitor-resistant hypertension and rapid progression in ADPKD — Diagnostics, 2025](https://doi.org/10.3390/diagnostics15202583)
+
+## Social
+- [LinkedIn](https://www.linkedin.com/in/andreaangioimd/)
+- [X @andreaangioi](https://x.com/andreaangioi)
+- [Bluesky @andreaangioi.bsky.social](https://bsky.app/profile/andreaangioi.bsky.social)
+- [ResearchGate](https://www.researchgate.net/profile/Andrea-Angioi)
