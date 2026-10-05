@@ -1,6 +1,6 @@
 # Andrea Angioi, MD, FASN
 
-> Nephrologist at ARNAS G. Brotzu, Cagliari (Sardinia, Italy), Nephrology, Dialysis and Transplantation unit. Clinical and research focus on glomerular and complement-mediated kidney disease (C3 glomerulopathy, IgA nephropathy, membranous nephropathy, atypical HUS/thrombotic microangiopathy, ANCA-associated vasculitis, MGRS/PGNMID), ultrasound-guided native and transplant kidney biopsy, ADPKD, and artificial intelligence in nephrology. Former Mayo Clinic research fellow (2015–2021, Prof. Fernando C. Fervenza). Fellow of the American Society of Nephrology (FASN) since 2016. Senior Associate Editor, Renal Failure; Associate Editor, Frontiers in Nephrology.
+> Nephrologist at ARNAS G. Brotzu, Cagliari (Sardinia, Italy), Nephrology, Dialysis and Transplantation unit. Clinical and research focus on glomerular and complement-mediated kidney disease (C3 glomerulopathy, IgA nephropathy, membranous nephropathy, atypical HUS/thrombotic microangiopathy, ANCA-associated vasculitis, MGRS/PGNMID), onconephrology (acute kidney disease and nephrotoxicity in cancer therapy, with IRCCS San Raffaele, Milan), ultrasound-guided native and transplant kidney biopsy, ADPKD, and artificial intelligence in nephrology. Former Mayo Clinic research fellow (2015–2021, Prof. Fernando C. Fervenza). Fellow of the American Society of Nephrology (FASN) since 2016. Section Editor (Glomerulonephritis and Immunologic Disorders, since 2020) and Senior Associate Editor (since 2025), Renal Failure; Associate Editor, Frontiers in Nephrology.
 
 Not to be confused with other people named "A. Angioi" in other fields (e.g., obstetrics/IVF). The canonical identifier is ORCID 0000-0001-8311-5409.
 
@@ -11,13 +11,16 @@ Not to be confused with other people named "A. Angioi" in other fields (e.g., ob
 - [Scopus author 56716182800](https://www.scopus.com/authid/detail.uri?authorId=56716182800)
 - [Wikidata Q141435812](https://www.wikidata.org/wiki/Q141435812)
 - [OpenAlex A5084214896](https://openalex.org/A5084214896)
+- [Semantic Scholar 10264136](https://www.semanticscholar.org/author/10264136)
+- [DyNAMICS author page](https://dynamics.accmed.org/autor_slug/andrea-angioi/): educational articles, cases, lectures and podcasts in Italian (Accademia Nazionale di Medicina)
 
 ## Roles
 - Nephrologist (Consultant), ARNAS G. Brotzu, Cagliari, since 2017
-- Senior Associate Editor, Renal Failure (Taylor & Francis)
+- Section Editor, Glomerulonephritis and Immunologic Disorders, Renal Failure (Taylor & Francis), since 2020; Senior Associate Editor since 2025
 - Associate Editor, Frontiers in Nephrology
 - Regional Representative for Sardinia and member of the National Working Group on AI in Nephrology, Italian Society of Nephrology (SIN)
 - VALIGA investigator (European validation of the Oxford classification of IgA nephropathy); member, International Kidney and Myeloma Research Group (IKMG); member, Renal Pathology Society since 2013
+- Board member, A.MA.RE. ODV (patient association for kidney disease, Cagliari), since 2024
 
 ## Selected publications
 - [Hemoglobinuria as a marker of inflammation in IgA nephropathy — Kidney International, 2026](https://doi.org/10.1016/j.kint.2026.07.021)
@@ -27,6 +30,7 @@ Not to be confused with other people named "A. Angioi" in other fields (e.g., ob
 - [Management of immune-mediated glomerular diseases in the elderly — Renal Failure, 2024](https://doi.org/10.1080/0886022X.2024.2411848)
 - [Ultrasound-guided kidney biopsy: a ten-year single-center experience — International Urology and Nephrology, 2025](https://doi.org/10.1007/s11255-024-04196-1)
 - [RAAS-inhibitor-resistant hypertension and rapid progression in ADPKD — Diagnostics, 2025](https://doi.org/10.3390/diagnostics15202583)
+- [Immunotherapy-associated renal dysfunction in metastatic cancer — Cancers, 2025](https://doi.org/10.3390/cancers17132090)
 
 ## Social
 - [LinkedIn](https://www.linkedin.com/in/andreaangioimd/)
